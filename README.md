@@ -4,8 +4,7 @@ An interactive six-page Power BI dashboard analyzing sales performance, profitab
 
 ## Dashboard Preview
 
-![Executive Overview](screenshots/01-executive-overview.png)
-
+![Executive Overview](01-executive-overview.png)
 ## Project Overview
 
 This project uses Power BI to transform retail order data into an interactive business intelligence report. It demonstrates data preparation, data modeling, DAX measure development, and dashboard design.
